@@ -1,0 +1,4 @@
+team-name: 工大喵喵队
+repo-url: https://github.com/mapler2191/cie2026-vdot-team-xiangshan-vdot
+github-username: mapler2191
+contact-email: 190293231@qq.com
